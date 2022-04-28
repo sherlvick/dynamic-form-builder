@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Dynamic Form Builder
+
+This is an admin system for dynamic form builder where a user can create complex forms by dragging and dropping fields (like CMS) and can provide configurations for dynamic data, styling, events handling, validations, etc...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
